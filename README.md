@@ -1,2 +1,2 @@
 # myDisplayContents
-Learning Display property Contents value.
+Learning Grids & Display property Contents value.
