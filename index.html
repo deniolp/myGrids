@@ -5,51 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Display: contents;</title>
-  <style media="screen">
-    .grid {
-      display: grid;
-      grid-auto-flow: column;
-      grid-template-rows: auto 1fr auto;
-      grid-template-columns: repeat(2, 1fr);
-      grid-column-gap: 20px;
-    }
-    
-    article {
-      display: grid;
-      grid-template-rows: 200px 90px auto;
-    }
-    
-    @supports (display: contents) {
-      article {
-        display: contents;
-      }
-    }
-    
-    .grid-container {
-      margin: 2% 1%;
-      display: grid;
-      grid-template-columns: 1fr 1fr 1fr;
-      grid-column-gap: 10px;
-      grid-row-gap: 10px;
-      grid-template-areas:
-        "img img ."
-        "caption text text"
-    }
-    
-    .text {
-      grid-area: text;
-    }
-    
-    .image {
-      grid-area: img;
-      background-color: lightgrey;
-      min-height: 150px;
-    }
-    
-    .caption {
-      grid-area: caption;
-    }
-  </style>
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <div class="grid">
