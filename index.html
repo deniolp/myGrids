@@ -24,6 +24,31 @@
         display: contents;
       }
     }
+    
+    .grid-container {
+      margin: 2% 1%;
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      grid-column-gap: 10px;
+      grid-row-gap: 10px;
+      grid-template-areas:
+        "img img ."
+        "caption text text"
+    }
+    
+    .text {
+      grid-area: text;
+    }
+    
+    .image {
+      grid-area: img;
+      background-color: lightgrey;
+      min-height: 150px;
+    }
+    
+    .caption {
+      grid-area: caption;
+    }
   </style>
 </head>
 <body>
@@ -38,6 +63,11 @@
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum non expedita nobis deleniti assumenda rerum.</p>
       <p>Footer stuff</p>
     </article>
+  </div>
+  <div class="grid-container">
+    <div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam corporis laborum est corrupti voluptas tempora, et rem, dolore iste sunt fugiat repellendus error dolorem officia veritatis doloremque ad reiciendis ea consequuntur voluptatibus. In nobis commodi nisi, natus voluptatum, quis ea.</div>
+    <div class="image"></div>
+    <div class="caption">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto veritatis autem doloremque necessitatibus facilis suscipit iure dolor voluptatum, natus error.</div>
   </div>
 
 </body>
