@@ -11,7 +11,7 @@ html {
   border: 1px solid grey;
 }
 
-.grid {
+.grid1 {
   display: grid;
   grid-auto-flow: column;
   grid-template-rows: auto 1fr auto;
@@ -30,7 +30,7 @@ article {
   }
 }
 
-.grid-container {
+.grid2 {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   grid-column-gap: 10px;
@@ -54,7 +54,7 @@ article {
   grid-area: caption;
 }
 
-.wrapper {
+.grid3 {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   grid-column-gap: 2px;
@@ -62,7 +62,7 @@ article {
   grid-auto-rows: 100px;
 }
 
-.wrapper div {
+.grid3 div {
   background-color: #96d5c3;
   border: 1px solid magenta;
 }
