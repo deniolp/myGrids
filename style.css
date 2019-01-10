@@ -53,12 +53,14 @@ article {
 .wrapper {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
+  grid-column-gap: 2px;
+  grid-row-gap: 2px;
   grid-auto-rows: 100px;
 }
 
 .wrapper div {
-  background-color: tomato;
-  border: solid 1px black;
+  background-color: #96d5c3;
+  border: 1px solid magenta;
 }
 
 .box1 {
