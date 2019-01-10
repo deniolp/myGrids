@@ -101,5 +101,7 @@ article {
   justify-content: center;
   grid-column-start: 2;
   color: #e3e3df;
+  font-family: 'Times New Roman', serif;
+  font-size: 1.1em;
   margin: 0 60px;
 }
