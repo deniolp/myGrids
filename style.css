@@ -106,7 +106,7 @@ article {
   padding: 0 50px;
 }
 
-.grid {
+.grid5 {
   display: grid;
 }
 
@@ -159,6 +159,10 @@ label {
   padding: 1rem;
   text-transform: uppercase;
   width: 100%;
+}
+
+.button:hover {
+  background-color: #9b1637;
 }
 
 .hidden {
