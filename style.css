@@ -211,7 +211,7 @@ label {
   min-height: 250px;
   grid-column: 2 / 16;
   grid-row: image;
-  background-image: url("photo.jpg");
+  background-image: url("media/photo.jpg");
   background-position: center;
   background-size: cover;
   z-index: 1;
