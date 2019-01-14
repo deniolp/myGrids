@@ -4,7 +4,7 @@
 
 ---
 
-_Some layout by using GRID LAYOUT:_
+_Some layouts by using GRID LAYOUT:_
 
 ---
 
@@ -14,6 +14,6 @@ _Some layout by using GRID LAYOUT:_
 * [GRIDS Negative space](https://deniolp.github.io/myGrids/index.html#4)
 * [GRIDS Flexible grids via auto-fit](https://deniolp.github.io/myGrids/index.html#5)
 * [GRIDS Some complicated layout](https://deniolp.github.io/myGrids/index.html#6)
-<img width="769" src="https://user-images.githubusercontent.com/30692310/51120586-7ad34200-1826-11e9-9e05-6c81f202a6e0.png">
+<img width="500" src="https://user-images.githubusercontent.com/30692310/51120586-7ad34200-1826-11e9-9e05-6c81f202a6e0.png">
 
 _I just started and looking for many different options!_
