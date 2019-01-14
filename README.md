@@ -8,11 +8,11 @@ _Some layout by using GRID LAYOUT:_
 
 ---
 
-* [GRIDS display: contents](https://deniolp.github.io/myGrids#1)
-* [GRIDS grid-areas](https://deniolp.github.io/myGrids#2)
-* [GRIDS Stacked boxes via z-index](https://deniolp.github.io/myGrids#3)
-* [GRIDS Negative space](https://deniolp.github.io/myGrids#4)
-* [GRIDS Flexible grids via auto-fit](https://deniolp.github.io/myGrids#5)
-* [GRIDS Some complicated layout](https://deniolp.github.io/myGrids#6)
+* [GRIDS display: contents](https://deniolp.github.io/myGrids/index.html#1)
+* [GRIDS grid-areas](https://deniolp.github.io/myGrids/index.html#2)
+* [GRIDS Stacked boxes via z-index](https://deniolp.github.io/myGrids/index.html#3)
+* [GRIDS Negative space](https://deniolp.github.io/myGrids/index.html#4)
+* [GRIDS Flexible grids via auto-fit](https://deniolp.github.io/myGrids/index.html#5)
+* [GRIDS Some complicated layout](https://deniolp.github.io/myGrids/index.html#6)
 
 _I just started and looking for many different options!_
