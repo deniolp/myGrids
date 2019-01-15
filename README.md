@@ -16,4 +16,6 @@ _Some layouts by using GRID LAYOUT:_
 * [GRIDS Some complicated layout](https://deniolp.github.io/myGrids/index.html#6)
 <img width="500" src="https://user-images.githubusercontent.com/30692310/51120586-7ad34200-1826-11e9-9e05-6c81f202a6e0.png">
 
+* [GRIDS Animation with grid layout](https://deniolp.github.io/myGrids/index.html#7)
+
 _I just started and looking for many different options!_
