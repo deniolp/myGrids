@@ -227,3 +227,43 @@ label {
   margin: 0;
   padding: 0;
 }
+
+.grid7 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  height: 500px;
+  gap: 20px;
+  animation: resize 3000ms ease 200ms infinite;
+}
+
+.item {
+  background-color: rgb(255, 136, 24);
+}
+
+@keyframes resize {
+  0% {
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+  }
+
+  25% {
+    grid-template-columns: 4fr 3fr;
+    grid-template-rows: 4fr 3fr;
+  }
+
+  50% {
+    grid-template-columns: 2fr 4fr;
+    grid-template-rows: 2fr 4fr;
+  }
+
+  75% {
+    grid-template-columns: 4fr 3fr;
+    grid-template-rows: 4fr 3fr;
+  }
+
+  100% {
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+  }
+}
