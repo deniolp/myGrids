@@ -1,0 +1,19 @@
+{
+  "name": "mygrids",
+  "version": "1.0.0",
+  "description": "Learning Grid Layout",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deniolp/myGrids.git"
+  },
+  "author": "Denis Popov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deniolp/myGrids/issues"
+  },
+  "homepage": "https://github.com/deniolp/myGrids#readme"
+}
