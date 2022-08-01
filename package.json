@@ -24,6 +24,6 @@
   "dependencies": {
     "axios": "^0.21.1",
     "kind-of": "^6.0.3",
-    "lodash": "^4.17.19"
+    "lodash": "^4.17.21"
   }
 }
