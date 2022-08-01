@@ -22,7 +22,7 @@
     "gulp": "^4.0.2"
   },
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^0.21.2",
     "kind-of": "^6.0.3",
     "lodash": "^4.17.21"
   }
